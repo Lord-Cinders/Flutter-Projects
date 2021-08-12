@@ -1,0 +1,29 @@
+name: bruh
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  audioplayers: ^0.14.0
+  positioned_tap_detector: ^1.0.3
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/PngItem_4931119.png
+    - assets/audio/movie_1.mp3
+    - assets/audio/Bruh-sound-effect.mp3
